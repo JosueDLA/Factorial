@@ -15,7 +15,7 @@ public class Factorial {
      * @param args the command line arguments
      */
     
-    public static doubler Factorial(double numero){
+    public static double Factorial(double numero){
         
         if(numero>=0 && numero<=100){
             double test=1;
